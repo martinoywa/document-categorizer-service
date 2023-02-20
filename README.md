@@ -23,4 +23,4 @@ you want to classify.
 
 ###
 
-Build with ❤️ by [martinoywa](https://github.com/martinoywa).
+Built with ❤️ by [martinoywa](https://github.com/martinoywa).
